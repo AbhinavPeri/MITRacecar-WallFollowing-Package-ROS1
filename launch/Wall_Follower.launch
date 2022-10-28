@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="Wall_Following" type="topics.py" name="topic" output="screen">
+	</node>
+</launch>

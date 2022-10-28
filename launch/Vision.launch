@@ -1,0 +1,5 @@
+<launch>
+        <node pkg="Wall_Following" type="depth.py" name="Image_processor" output="screen">
+        </node>
+</launch>
+

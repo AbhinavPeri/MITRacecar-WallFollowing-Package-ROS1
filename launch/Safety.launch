@@ -1,0 +1,4 @@
+<launch>
+        <node pkg="Wall_Following" type="SafetyController.py" name="safety_sloth" output="screen">
+        </node>
+</launch>
